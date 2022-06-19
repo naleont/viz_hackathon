@@ -1,8 +1,8 @@
 # viz_hackathon
 
-Leontovich Nataliya
-Ermakova Alyona
-Akhmetshina Ekaterina
+Leontovich Nataliya  
+Ermakova Alyona  
+Akhmetshina Ekaterina  
 
 ## Hypotheses
 1. Projected price is the one forming projected capacity, and not average sourced price.
